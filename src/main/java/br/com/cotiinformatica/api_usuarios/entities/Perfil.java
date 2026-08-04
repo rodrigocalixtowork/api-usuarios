@@ -7,7 +7,7 @@ import lombok.Setter;
 import java.util.List;
 
 @Entity
-@Table(name = "pefis")
+@Table(name = "perfis")
 @Setter
 @Getter
 public class Perfil {
